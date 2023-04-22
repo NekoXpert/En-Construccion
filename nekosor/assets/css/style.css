@@ -28,13 +28,16 @@ img{
 }
 
 p{
-    font-family: 'Roboto', sans-serif;
+    display:block;
+    margin-bottom: 180%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    font-size:1.5em;
 }
 
 span{
     font-weight: 700;
-    font-size:2rem;
+    font-size:1.5rem;
 }
 
 .web{
@@ -51,13 +54,14 @@ font-family: 'Roboto', sans-serif;
 }
 
 .text-container{
-  margin-left: 50%;
+    display:flex;
+   justify-content: center;
     top: 60%;
-    left: 50%;
+    margin-left: 50%;
 
     transform: translate(-50%, -50%);
     text-align: center;
     color: white;
   font-size: 1rem;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
