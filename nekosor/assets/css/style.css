@@ -51,7 +51,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .text-container{
-    position: absolute;
+  margin-left: 50%;
     top: 60%;
     left: 50%;
 
